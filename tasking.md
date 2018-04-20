@@ -1,5 +1,7 @@
 # Make-online-exam-interactive-page题目划分
 
+![](TASKING.JPG)
+
 ```
 #1 calculateScore
 输入：
